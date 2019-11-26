@@ -1,7 +1,7 @@
 const backgroundVideo = new BackgroundVideo('.bv-video', {
     src: [
-        '../Webpage/assets/videos/bv_1.mp4',
-		'../Webpage/assets/videos/bv_1.webm'
+        '../WebPage/assets/videos/bv_1.mp4',
+		'../WebPage/assets/videos/bv_1.webm'
     ],
     parallax: {
         effect: 1.9
